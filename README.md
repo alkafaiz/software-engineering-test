@@ -5,7 +5,7 @@
 
 ## Instructions
 * Clone this repo
-* Solve the test in python/ruby/typescript/nodejs in the same directory as the seed file
+* Solve the test in python/ruby/typescript/nodejs in the same directory as the seed.py file
 * Make a FORK, and then create a PR for the FORK when you are ready for answer submission!
 * If you do not know this workflow, please read this [guide](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 * Notify  [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR.
