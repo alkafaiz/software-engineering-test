@@ -4,6 +4,9 @@
     "description": "* This is a coding test for prospective supahands engineers. \r * This is the alternate test given to non CS majors who may think that an graph algorithm test unfairly test their software engineering skills\r * The seed file should not be modified, it is expected to generate a list of random timestamps to be used in the test",
     "main": "index.js",
     "scripts": {
+        "combinations": "nodemon --exec ts-node combinations.ts",
+        "fibonacci": "nodemon --exec ts-node fibonacci.ts",
+        "sha512": "nodemon --exec ts-node sha512.ts",
         "dev": "nodemon --exec ts-node main.ts",
         "start": "ts-node main.ts"
     },
@@ -23,5 +26,8 @@
         "nodemon": "^2.0.7",
         "ts-node": "^9.1.1",
         "typescript": "^4.2.3"
+    },
+    "dependencies": {
+        "crypto-js": "^4.0.0"
     }
 }
